@@ -60,7 +60,7 @@ async function fetchImage() {
 onMounted(() => {
   // Lazy load image when card is visible
   observer = new IntersectionObserver((entries) => {
-    if (entries[0].isIntersecting) {
+    if (entries[0]?.isIntersecting) {
       fetchImage()
       if (cardRef.value && observer) observer.unobserve(cardRef.value)
     }
