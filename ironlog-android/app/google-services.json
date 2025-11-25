@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422816280988",
+    "project_id": "ironlogag",
+    "storage_bucket": "ironlogag.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422816280988:android:42f1978c3421d70e4c1859",
+        "android_client_info": {
+          "package_name": "com.ironlog.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422816280988-di1dsfubu55oedak6ufagsnveedpj5d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ironlog.app",
+            "certificate_hash": "59c939667f8abd2aa0bdd1adc0dd38b8481b8b4d"
+          }
+        },
+        {
+          "client_id": "422816280988-2mdcrbatcom2j9f1uhcvalmci1m6r81k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgdYKTpcWbJuZyqJgFgH5E5kDMOOyXkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422816280988-2mdcrbatcom2j9f1uhcvalmci1m6r81k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
